@@ -3,6 +3,8 @@ const app = express();
 const mongoose = require('mongoose');
 const UserModel= require('./models/Users')
 const cors = require("cors");
+require('dotenv').config();
+
 // const mongoURI="mongodb+srv://ammarzahidrana:ammarp3b@cluster0.pxlflxi.mongodb.net/Fruitable";
 
 
@@ -10,7 +12,10 @@ const cors = require("cors");
 const port= 5000
 
 // Connecting to the MongoDB database
-mongoose.connect("mongodb+srv://ammarzahidrana:ammarp3b@cluster0.pxlflxi.mongodb.net/Fruitable")
+mongoose.connect(process.env.MongoURI)
+
+// Connecting to the MongoDB database
+// mongoose.connect("mongodb+srv://ammarzahidrana:ammarp3b@cluster0.pxlflxi.mongodb.net/Fruitable")
 
 
 
