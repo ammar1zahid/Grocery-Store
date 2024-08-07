@@ -9,7 +9,7 @@ require('dotenv').config();
 
 
 // Setting up the port for the server
-const port= 5000
+const port= process.env.PORT || 5000;
 
 // Connecting to the MongoDB database
 mongoose.connect(process.env.MongoURI)
