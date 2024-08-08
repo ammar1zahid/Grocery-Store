@@ -40,6 +40,7 @@ app.get('/',(req,res)=>{
     res.send('hello world')
 })
 
+//Api
 //using routes made in route folder
 app.use('/api',require("./routes/CreateUser"))
 app.use('/api',require("./routes/LoginUser"))
