@@ -21,6 +21,7 @@ import ProductCard from '../components/ProductCard';
 
 export default function HomePage() {
   
+  //home pages
   const [categories, setCategories] = useState([]);
   
 
@@ -33,6 +34,7 @@ export default function HomePage() {
       handleFetchError('categories', error);
     }
   };
+
 
 
 
