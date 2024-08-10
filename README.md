@@ -1,52 +1,7 @@
 ### Grocery Store Ecommerce Website
 
-Welcome to my website! Here are some screenshots to give you a glimpse:
+Welcome to my website! Visit Frontend folder some screenshots to give you a glimpse
  
- ## Home Page
-
-![Homepage](public/img/screenshots/home.PNG)
-
-## Products
-
-![Products](public/img/screenshots/Products.PNG)
-
-## Vegetables
-
-![Vegetables](public/img/screenshots/vegetables.PNG)
-
-## Shop Page
-
-![ShopPage](public/img/screenshots/ShopPage.PNG)
-
-## Product Details Page
-
-![ProductDetail](public/img/screenshots/ProductDetailPage.PNG)
-
-## Cart Page
-
-![Cart](public/img/screenshots/Cart.PNG)
-
-## Checkout Page
-
-![Checkout](public/img/screenshots/Checkout.PNG)
-
-## Contact Us
-
-![Contact](public/img/screenshots/ContactUsPage.PNG)
-
-## Testimonial Page
-
-![testtimonial](public/img/screenshots/Testimonial.PNG)
-
-## Admin Products Page
-
-![AdminProducts](public/img/screenshots/AdminProducts.PNG)
-
-## Admin Add Products Page
-
-![AdminAddProducts](public/img/screenshots/AdminAddProduct.PNG)
-
-
 
 ## Key Features
 
